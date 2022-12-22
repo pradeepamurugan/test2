@@ -1,0 +1,64 @@
+.check-section{
+	background-color:black;
+	
+}
+.container{
+	width:100%;
+}
+.text{
+	display:flex;
+	padding:70px ;	
+}
+
+.head{
+	width:20%;
+	padding:10px;
+}
+.check-content{
+	width:60%;
+	padding:10px;
+}
+.image{
+	width:20%;
+	padding:10px;
+	margin-top:50px;
+}
+ img{
+	width:100%;
+	height:auto;
+}
+.head h5{
+	color:gray;
+	font-size:12px;
+}
+.head h1{
+	color:orange;
+	font-size:26px;
+	
+}
+.para1{
+	border-right:solid 1px orange;
+}
+.para1 h2{
+	font-size:16px;
+	background-color:orange;
+	color:black;
+	padding:10px;
+}
+.text2{
+	font-style:italic;
+}
+.para1 p{
+	color:white;
+	padding-left:10px;
+}
+.check-content{
+	margin-top:70px;
+}
+.check-content h1{
+	color:white;
+	
+}
+.check-content p{
+	color:gray;
+}
